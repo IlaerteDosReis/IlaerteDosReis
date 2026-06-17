@@ -137,3 +137,4 @@ Outros:
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:450a0a,50:dc2626,100"/>
