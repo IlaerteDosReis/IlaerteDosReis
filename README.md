@@ -8,7 +8,8 @@ Estudante de Tecnologia da Informação | Futuro Desenvolvedor Java Back-end
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+TI;Futuro+Desenvolvedor+Java;Marketing+Digital+e+Tecnologia" />
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
+<br><br>
 
 </div>
 
