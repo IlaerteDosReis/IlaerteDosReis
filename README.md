@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:450a0a,50:dc2626,100:f87171&text=Ilaerte%20Dos%20Reis&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
 <h1 align="center">Olá 👋, Eu sou Ilaerte Dos Reis</h1>
 
 <h3 align="center">
