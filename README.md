@@ -8,9 +8,6 @@ Estudante de Tecnologia da Informação | Futuro Desenvolvedor Java Back-end
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
-<br><br>
-
 </div>
 
 ---
@@ -31,7 +28,7 @@ Estudante de Tecnologia da Informação | Futuro Desenvolvedor Java Back-end
 
 📧 Contato: DosReisCamargo16@gmail.com
 
-<imagem src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" largura="400">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
 <br><br>
 ---
 
